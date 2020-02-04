@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba4c4567-01c7-45e9-9117-e2343234e28a" name="Default Changelist" comment="" />
+    <list default="true" id="ba4c4567-01c7-45e9-9117-e2343234e28a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/composerJson.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax.php" beforeDir="false" afterPath="$PROJECT_DIR$/ajax.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,8 +25,12 @@
       <list>
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1X5cndhDaHrtQlvuLBbCUM2htB5" />
@@ -30,8 +42,17 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -62,6 +83,9 @@
       <updated>1580339563305</updated>
       <workItem from="1580339564472" duration="819000" />
       <workItem from="1580340487733" duration="377000" />
+      <workItem from="1580373053211" duration="4337000" />
+      <workItem from="1580496025100" duration="482000" />
+      <workItem from="1580766244457" duration="11404000" />
     </task>
     <servers />
   </component>
@@ -73,9 +97,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="667" y="109" key="#PHP/1920.173.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1580339914948" />
+    <state x="642" y="309" key="FileChooserDialogImpl" timestamp="1580496506440">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="642" y="309" key="FileChooserDialogImpl/1920.173.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1580496506440" />
     <state x="794" y="442" key="NewPhpFileDialog" timestamp="1580339576160">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="442" key="NewPhpFileDialog/1920.173.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1580339576160" />
+    <state x="461" y="150" key="SettingsEditor" timestamp="1580766412680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="150" key="SettingsEditor/1920.173.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1580766412680" />
+    <state x="656" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1580496025180">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="342" key="com.intellij.ide.util.TipDialog/1920.173.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1580496025180" />
+    <state x="616" y="235" key="run.anything.popup" timestamp="1580766580151">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="235" key="run.anything.popup/1920.173.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1580766580151" />
   </component>
 </project>

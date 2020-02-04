@@ -3,14 +3,46 @@
 <head>
     <meta charset="utf-8">
     <title>JS-Meteo</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 </head>
 <body>
-<div id="main">
+<div class="container">
+
+    <div class="col-sm-12 text-center pb-sm-4 pt-sm-4" id="input">
+        <input id="input"  name="ville" type="text">
+    </div>
+    <div class="col-sm-12 text-center" id="button">
+        <button type="button" class="rounded mb-sm-5" id="btn">Valider</button>
+    </div>
+    <div class="col-sm-12 text-center mb-sm-5" id="date">
+    </div>
+
+<div class="row text-center">
+
+    <div  id="temp" class="col">
+    </div>
+
+    <div class="col">
+        <p id="max"></p>
+        <p id="min"></p>
+        <p id="press"></p>
+        <p id="wind"></p>
+        <p id="hum"></p>
+    </div>
+    </div>
+
+    <div class="row">
+        <div  id="long" class="col">
+        </div>
+    </div>
+
+
+
+
 </div>
 
 
-<input id="input"  name="ville" type="text">
-<button type="button" id="btn">Test</button>
 
 
 

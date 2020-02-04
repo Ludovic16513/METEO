@@ -1,0 +1,24 @@
+
+
+input{
+    border-bottom: black 1px solid;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    font-size: 10px;
+    width: 300px;
+}
+
+button {
+    width: 100px;
+}
+
+#temp {
+    font-size: 100px;
+}
+
+.container{
+    background-color: darkslategray;
+    color: white;
+   font-family: "Calibri Light";
+}
